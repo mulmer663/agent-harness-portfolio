@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-label="월별 커밋 수 (병합 제외)">
+<title>월별 커밋 수 (병합 제외)</title>
+<rect width="720" height="380" fill="#ffffff" rx="8"/>
+<text x="20.0" y="30.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">월별 커밋 수 (병합 제외)</text>
+<text x="20.0" y="50.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">통합 브랜치 기준 · 2026-06 과 2026-11 은 부분 월(첫 커밋 06-23, 스냅샷 11-06)</text>
+<line x1="70.0" y1="330.0" x2="690.0" y2="330.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="334.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">0</text>
+<line x1="70.0" y1="253.3" x2="690.0" y2="253.3" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="257.3" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">1,000</text>
+<line x1="70.0" y1="176.7" x2="690.0" y2="176.7" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="180.7" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">2,000</text>
+<line x1="70.0" y1="100.0" x2="690.0" y2="100.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="104.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">3,000</text>
+<path d="M92.7,330.0 L92.7,321.7 Q92.7,317.7 96.7,317.7 L146.6,317.7 Q150.6,317.7 150.6,321.7 L150.6,330.0 Z" fill="#2a78d6"><title>2026-06 IAM 플랫폼: 161</title></path>
+<text x="121.7" y="309.7" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">161</text>
+<text x="121.7" y="348.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">06월 (부분)</text>
+<path d="M196.1,330.0 L196.1,277.2 Q196.1,273.2 200.1,273.2 L249.9,273.2 Q253.9,273.2 253.9,277.2 L253.9,330.0 Z" fill="#2a78d6"><title>2026-07 IAM 플랫폼: 741</title></path>
+<text x="225.0" y="265.2" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">741</text>
+<text x="225.0" y="348.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">07월</text>
+<path d="M299.4,281.9 h57.9 v48.1 h-57.9 Z" fill="#2a78d6"><title>2026-08 IAM 플랫폼: 654</title></path>
+<path d="M299.4,279.9 L299.4,278.4 Q299.4,277.0 300.8,277.0 L355.8,277.0 Q357.3,277.0 357.3,278.4 L357.3,279.9 Z" fill="#eb6834"><title>2026-08 유출 계정 탐지: 37</title></path>
+<text x="328.3" y="269.0" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">691</text>
+<text x="328.3" y="348.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">08월</text>
+<path d="M402.7,278.4 h57.9 v51.6 h-57.9 Z" fill="#2a78d6"><title>2026-09 IAM 플랫폼: 699</title></path>
+<path d="M402.7,241.5 h57.9 v35.0 h-57.9 Z" fill="#eb6834"><title>2026-09 유출 계정 탐지: 482</title></path>
+<path d="M402.7,239.5 L402.7,232.0 Q402.7,228.0 406.7,228.0 L456.6,228.0 Q460.6,228.0 460.6,232.0 L460.6,239.5 Z" fill="#1baf7a"><title>2026-09 MFA 제품: 149</title></path>
+<text x="431.7" y="220.0" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">1,330</text>
+<text x="431.7" y="348.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">09월</text>
+<path d="M506.1,229.0 h57.9 v101.0 h-57.9 Z" fill="#2a78d6"><title>2026-10 IAM 플랫폼: 1,344</title></path>
+<path d="M506.1,151.4 h57.9 v75.5 h-57.9 Z" fill="#eb6834"><title>2026-10 유출 계정 탐지: 1,011</title></path>
+<path d="M506.1,149.4 L506.1,147.7 Q506.1,146.0 507.8,146.0 L562.2,146.0 Q563.9,146.0 563.9,147.7 L563.9,149.4 Z" fill="#1baf7a"><title>2026-10 MFA 제품: 45</title></path>
+<text x="535.0" y="138.0" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">2,400</text>
+<text x="535.0" y="348.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">10월</text>
+<path d="M609.4,280.6 h57.9 v49.4 h-57.9 Z" fill="#2a78d6"><title>2026-11 IAM 플랫폼: 671</title></path>
+<path d="M609.4,278.1 h57.9 v1.5 h-57.9 Z" fill="#eb6834"><title>2026-11 유출 계정 탐지: 6</title></path>
+<path d="M609.4,279.4 L609.4,278.7 Q609.4,277.9 610.1,277.9 L666.5,277.9 Q667.3,277.9 667.3,278.7 L667.3,279.4 Z" fill="#1baf7a"><title>2026-11 MFA 제품: 2</title></path>
+<text x="638.3" y="269.9" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">679</text>
+<text x="638.3" y="348.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">11월 (부분)</text>
+<line x1="70.0" y1="330.0" x2="690.0" y2="330.0" stroke="#59636e" stroke-width="1"/>
+<rect x="70" y="67" width="10" height="10" rx="2" fill="#2a78d6"/>
+<text x="85.0" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">IAM 플랫폼</text>
+<rect x="173.5" y="67" width="10" height="10" rx="2" fill="#eb6834"/>
+<text x="188.5" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">유출 계정 탐지</text>
+<rect x="302.5" y="67" width="10" height="10" rx="2" fill="#1baf7a"/>
+<text x="317.5" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">MFA 제품</text>
+</svg>

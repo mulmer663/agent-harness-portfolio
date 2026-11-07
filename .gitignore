@@ -1,0 +1,4 @@
+# 로컬 전용 — 공개 저장소에 올리지 않는다
+scripts/*.local.*
+.DS_Store
+__pycache__/

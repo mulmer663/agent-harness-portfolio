@@ -1,0 +1,10 @@
+repo,period,integration_merges,review_word_in_message
+IAM,p1_to_0928,849,75
+IAM,p2_0929_to_1020,224,189
+IAM,p3_from_1021,268,209
+LEAK,p1_to_0928,3,0
+LEAK,p2_0929_to_1020,0,0
+LEAK,p3_from_1021,0,0
+MFA,p1_to_0928,0,0
+MFA,p2_0929_to_1020,1,0
+MFA,p3_from_1021,1,0

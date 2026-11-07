@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-label="통합 병합 메시지에 리뷰 단어가 든 비율 — IAM 플랫폼">
+<title>통합 병합 메시지에 리뷰 단어가 든 비율 — IAM 플랫폼</title>
+<rect width="720" height="300" fill="#0d1117" rx="8"/>
+<text x="20.0" y="30.0" font-size="16" font-weight="600" fill="#e6edf3" text-anchor="start">통합 병합 메시지에 리뷰 단어가 든 비율 — IAM 플랫폼</text>
+<text x="20.0" y="50.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">통합 브랜치 first-parent 병합 · 세션 감사(09-29)와 병합 게이트(10-21) 도입일로 가른 구간 · 관측치이며 인과가 아니다</text>
+<line x1="200.0" y1="92.0" x2="200.0" y2="268.0" stroke="#30363d" stroke-width="1"/>
+<text x="200.0" y="284.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="middle">0%</text>
+<line x1="310.0" y1="92.0" x2="310.0" y2="268.0" stroke="#30363d" stroke-width="1"/>
+<text x="310.0" y="284.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="middle">25%</text>
+<line x1="420.0" y1="92.0" x2="420.0" y2="268.0" stroke="#30363d" stroke-width="1"/>
+<text x="420.0" y="284.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="middle">50%</text>
+<line x1="530.0" y1="92.0" x2="530.0" y2="268.0" stroke="#30363d" stroke-width="1"/>
+<text x="530.0" y="284.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="middle">75%</text>
+<line x1="640.0" y1="92.0" x2="640.0" y2="268.0" stroke="#30363d" stroke-width="1"/>
+<text x="640.0" y="284.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="middle">100%</text>
+<text x="188.0" y="116.0" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">~ 09-28</text>
+<text x="188.0" y="131.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end">병합 849건</text>
+<path d="M200.0,100.0 L234.9,100.0 Q238.9,100.0 238.9,104.0 L238.9,130.0 Q238.9,134.0 234.9,134.0 L200.0,134.0 Z" fill="#3987e5"><title>~ 09-28: 75/849 (8.8%)</title></path>
+<text x="246.9" y="122.0" font-size="12" font-weight="600" fill="#e6edf3" text-anchor="start">9%  (75/849)</text>
+<text x="188.0" y="172.0" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">09-29 ~ 10-20 (감사)</text>
+<text x="188.0" y="187.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end">병합 224건</text>
+<path d="M200.0,156.0 L567.2,156.0 Q571.2,156.0 571.2,160.0 L571.2,186.0 Q571.2,190.0 567.2,190.0 L200.0,190.0 Z" fill="#3987e5"><title>09-29 ~ 10-20 (감사): 189/224 (84.4%)</title></path>
+<text x="579.2" y="178.0" font-size="12" font-weight="600" fill="#e6edf3" text-anchor="start">84%  (189/224)</text>
+<text x="188.0" y="228.0" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">10-21 ~ (감사 + 게이트)</text>
+<text x="188.0" y="243.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end">병합 268건</text>
+<path d="M200.0,212.0 L539.1,212.0 Q543.1,212.0 543.1,216.0 L543.1,242.0 Q543.1,246.0 539.1,246.0 L200.0,246.0 Z" fill="#3987e5"><title>10-21 ~ (감사 + 게이트): 209/268 (78.0%)</title></path>
+<text x="551.1" y="234.0" font-size="12" font-weight="600" fill="#e6edf3" text-anchor="start">78%  (209/268)</text>
+<line x1="200.0" y1="92.0" x2="200.0" y2="268.0" stroke="#9198a1" stroke-width="1"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-label="저장소별 코드 규모 — 제품 코드 대 테스트 코드">
+<title>저장소별 코드 규모 — 제품 코드 대 테스트 코드</title>
+<rect width="720" height="300" fill="#ffffff" rx="8"/>
+<text x="20.0" y="30.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">저장소별 코드 규모 — 제품 코드 대 테스트 코드</text>
+<text x="20.0" y="50.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">스냅샷 트리의 빈 줄 뺀 줄 수 · Java·TS·SQL·스크립트 · 문서·lockfile·빌드 산출물 폴더 제외 · IAM 은 첫 커밋의 초기 코드 9.0만 줄 포함</text>
+<line x1="150.0" y1="84.0" x2="150.0" y2="270.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="150.0" y="286.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="middle">0k</text>
+<line x1="267.5" y1="84.0" x2="267.5" y2="270.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="267.5" y="286.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="middle">100k</text>
+<line x1="385.0" y1="84.0" x2="385.0" y2="270.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="385.0" y="286.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="middle">200k</text>
+<line x1="502.5" y1="84.0" x2="502.5" y2="270.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="502.5" y="286.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="middle">300k</text>
+<line x1="620.0" y1="84.0" x2="620.0" y2="270.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="620.0" y="286.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="middle">400k</text>
+<text x="138.0" y="114.0" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">IAM 플랫폼</text>
+<path d="M150.0,90.0 L522.3,90.0 Q526.3,90.0 526.3,94.0 L526.3,106.0 Q526.3,110.0 522.3,110.0 L150.0,110.0 Z" fill="#2a78d6"><title>IAM 플랫폼 제품 코드: 320,222줄</title></path>
+<text x="532.3" y="104.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="start">320.2k</text>
+<path d="M150.0,112.0 L573.8,112.0 Q577.8,112.0 577.8,116.0 L577.8,128.0 Q577.8,132.0 573.8,132.0 L150.0,132.0 Z" fill="#eb6834"><title>IAM 플랫폼 테스트 코드: 364,084줄</title></path>
+<text x="583.8" y="126.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="start">364.1k</text>
+<text x="700.0" y="114.0" font-size="12" font-weight="600" fill="#1f2328" text-anchor="end">테스트 비율 53%</text>
+<text x="138.0" y="174.0" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">유출 계정 탐지</text>
+<path d="M150.0,150.0 L258.6,150.0 Q262.6,150.0 262.6,154.0 L262.6,166.0 Q262.6,170.0 258.6,170.0 L150.0,170.0 Z" fill="#2a78d6"><title>유출 계정 탐지 제품 코드: 95,846줄</title></path>
+<text x="268.6" y="164.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="start">95.8k</text>
+<path d="M150.0,172.0 L371.4,172.0 Q375.4,172.0 375.4,176.0 L375.4,188.0 Q375.4,192.0 371.4,192.0 L150.0,192.0 Z" fill="#eb6834"><title>유출 계정 탐지 테스트 코드: 191,826줄</title></path>
+<text x="381.4" y="186.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="start">191.8k</text>
+<text x="700.0" y="174.0" font-size="12" font-weight="600" fill="#1f2328" text-anchor="end">테스트 비율 67%</text>
+<text x="138.0" y="234.0" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">MFA 제품</text>
+<path d="M150.0,210.0 L180.9,210.0 Q184.9,210.0 184.9,214.0 L184.9,226.0 Q184.9,230.0 180.9,230.0 L150.0,230.0 Z" fill="#2a78d6"><title>MFA 제품 제품 코드: 29,701줄</title></path>
+<text x="190.9" y="224.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="start">29.7k</text>
+<path d="M150.0,232.0 L177.4,232.0 Q181.4,232.0 181.4,236.0 L181.4,248.0 Q181.4,252.0 177.4,252.0 L150.0,252.0 Z" fill="#eb6834"><title>MFA 제품 테스트 코드: 26,687줄</title></path>
+<text x="187.4" y="246.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="start">26.7k</text>
+<text x="700.0" y="234.0" font-size="12" font-weight="600" fill="#1f2328" text-anchor="end">테스트 비율 47%</text>
+<line x1="150.0" y1="84.0" x2="150.0" y2="270.0" stroke="#59636e" stroke-width="1"/>
+<rect x="150" y="67" width="10" height="10" rx="2" fill="#2a78d6"/>
+<text x="165.0" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">제품 코드</text>
+<rect x="244.5" y="67" width="10" height="10" rx="2" fill="#eb6834"/>
+<text x="259.5" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">테스트 코드</text>
+</svg>

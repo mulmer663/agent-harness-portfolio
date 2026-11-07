@@ -1,0 +1,11 @@
+metric,value
+first_commit,2026-06-23
+last_commit,2026-11-06
+span_days,137
+products,3
+commits_nonmerge,6002
+ai_trailer_ratio,0.963
+review_mention_ratio,0.235
+code_lines_main,445769
+code_lines_test,582597
+test_line_ratio,0.567

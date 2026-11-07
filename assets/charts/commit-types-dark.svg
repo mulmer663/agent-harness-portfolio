@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="290" viewBox="0 0 720 290" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-label="커밋 유형 비율 (Conventional Commits 접두, 병합 제외)">
+<title>커밋 유형 비율 (Conventional Commits 접두, 병합 제외)</title>
+<rect width="720" height="290" fill="#0d1117" rx="8"/>
+<text x="20.0" y="30.0" font-size="16" font-weight="600" fill="#e6edf3" text-anchor="start">커밋 유형 비율 (Conventional Commits 접두, 병합 제외)</text>
+<text x="20.0" y="50.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">복합 접두(test+fix 등)는 첫 토큰으로 센다 · 접두가 없거나 낯선 것은 기타</text>
+<text x="138.0" y="116.0" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">IAM 플랫폼</text>
+<text x="138.0" y="131.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end">4,270건</text>
+<path d="M150.0,100.0 h98.1 v34.0 h-98.1 Z" fill="#3987e5"><title>IAM 플랫폼 feat: 822건 (19.3%)</title></path>
+<text x="200.1" y="122.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">19%</text>
+<path d="M250.1,100.0 h181.0 v34.0 h-181.0 Z" fill="#d95926"><title>IAM 플랫폼 fix: 1,503건 (35.2%)</title></path>
+<text x="341.6" y="122.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">35%</text>
+<path d="M433.1,100.0 h46.8 v34.0 h-46.8 Z" fill="#199e70"><title>IAM 플랫폼 test: 401건 (9.4%)</title></path>
+<text x="457.6" y="122.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">9%</text>
+<path d="M482.0,100.0 h144.6 v34.0 h-144.6 Z" fill="#c98500"><title>IAM 플랫폼 docs: 1,204건 (28.2%)</title></path>
+<text x="555.3" y="122.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">28%</text>
+<path d="M628.6,100.0 h17.9 v34.0 h-17.9 Z" fill="#d55181"><title>IAM 플랫폼 refactor·perf: 163건 (3.8%)</title></path>
+<path d="M648.4,100.0 L666.0,100.0 Q670.0,100.0 670.0,104.0 L670.0,130.0 Q670.0,134.0 666.0,134.0 L648.4,134.0 Z" fill="#008300"><title>IAM 플랫폼 기타: 177건 (4.1%)</title></path>
+<text x="138.0" y="168.0" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">유출 계정 탐지</text>
+<text x="138.0" y="183.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end">1,536건</text>
+<path d="M150.0,152.0 h75.9 v34.0 h-75.9 Z" fill="#3987e5"><title>유출 계정 탐지 feat: 230건 (15.0%)</title></path>
+<text x="188.9" y="174.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">15%</text>
+<path d="M227.9,152.0 h166.6 v34.0 h-166.6 Z" fill="#d95926"><title>유출 계정 탐지 fix: 498건 (32.4%)</title></path>
+<text x="312.2" y="174.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">32%</text>
+<path d="M396.5,152.0 h79.9 v34.0 h-79.9 Z" fill="#199e70"><title>유출 계정 탐지 test: 242건 (15.8%)</title></path>
+<text x="437.4" y="174.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">16%</text>
+<path d="M478.4,152.0 h153.1 v34.0 h-153.1 Z" fill="#c98500"><title>유출 계정 탐지 docs: 458건 (29.8%)</title></path>
+<text x="555.9" y="174.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">30%</text>
+<path d="M633.4,152.0 h5.8 v34.0 h-5.8 Z" fill="#d55181"><title>유출 계정 탐지 refactor·perf: 23건 (1.5%)</title></path>
+<path d="M641.2,152.0 L666.0,152.0 Q670.0,152.0 670.0,156.0 L670.0,182.0 Q670.0,186.0 666.0,186.0 L641.2,186.0 Z" fill="#008300"><title>유출 계정 탐지 기타: 85건 (5.5%)</title></path>
+<text x="138.0" y="220.0" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end">MFA 제품</text>
+<text x="138.0" y="235.0" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end">196건</text>
+<path d="M150.0,204.0 h82.9 v34.0 h-82.9 Z" fill="#3987e5"><title>MFA 제품 feat: 32건 (16.3%)</title></path>
+<text x="192.4" y="226.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">16%</text>
+<path d="M234.9,204.0 h120.0 v34.0 h-120.0 Z" fill="#d95926"><title>MFA 제품 fix: 46건 (23.5%)</title></path>
+<text x="295.9" y="226.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">23%</text>
+<path d="M356.9,204.0 h27.2 v34.0 h-27.2 Z" fill="#199e70"><title>MFA 제품 test: 11건 (5.6%)</title></path>
+<path d="M386.1,204.0 h202.3 v34.0 h-202.3 Z" fill="#c98500"><title>MFA 제품 docs: 77건 (39.3%)</title></path>
+<text x="488.3" y="226.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">39%</text>
+<path d="M590.4,204.0 h3.3 v34.0 h-3.3 Z" fill="#d55181"><title>MFA 제품 refactor·perf: 2건 (1.0%)</title></path>
+<path d="M595.7,204.0 L666.0,204.0 Q670.0,204.0 670.0,208.0 L670.0,234.0 Q670.0,238.0 666.0,238.0 L595.7,238.0 Z" fill="#008300"><title>MFA 제품 기타: 28건 (14.3%)</title></path>
+<text x="632.9" y="226.0" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle">14%</text>
+<rect x="150" y="71" width="10" height="10" rx="2" fill="#3987e5"/>
+<text x="165.0" y="80.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">feat</text>
+<rect x="213.0" y="71" width="10" height="10" rx="2" fill="#d95926"/>
+<text x="228.0" y="80.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">fix</text>
+<rect x="268.5" y="71" width="10" height="10" rx="2" fill="#199e70"/>
+<text x="283.5" y="80.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">test</text>
+<rect x="331.5" y="71" width="10" height="10" rx="2" fill="#c98500"/>
+<text x="346.5" y="80.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">docs</text>
+<rect x="394.5" y="71" width="10" height="10" rx="2" fill="#d55181"/>
+<text x="409.5" y="80.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">refactor·perf</text>
+<rect x="525.0" y="71" width="10" height="10" rx="2" fill="#008300"/>
+<text x="540.0" y="80.0" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start">기타</text>
+</svg>

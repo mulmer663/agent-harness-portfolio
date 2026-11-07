@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-label="지식 저장소 커밋 — 영역별 (월별)">
+<title>지식 저장소 커밋 — 영역별 (월별)</title>
+<rect width="720" height="360" fill="#ffffff" rx="8"/>
+<text x="20.0" y="30.0" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">지식 저장소 커밋 — 영역별 (월별)</text>
+<text x="20.0" y="50.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">지식 저장소 git 이력은 2026-09-04 시작 · 한 커밋이 여러 영역을 건드리면 영역마다 1 · 11월은 부분 월</text>
+<line x1="70.0" y1="310.0" x2="690.0" y2="310.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="314.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">0</text>
+<line x1="70.0" y1="243.3" x2="690.0" y2="243.3" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="247.3" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">200</text>
+<line x1="70.0" y1="176.7" x2="690.0" y2="176.7" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="180.7" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">400</text>
+<line x1="70.0" y1="110.0" x2="690.0" y2="110.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="62.0" y="114.0" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">600</text>
+<path d="M96.8,310.0 L96.8,253.3 Q96.8,249.3 100.8,249.3 L121.8,249.3 Q125.8,249.3 125.8,253.3 L125.8,310.0 Z" fill="#2a78d6"><title>2026-09 작업 노트: 182</title></path>
+<text x="111.3" y="244.3" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">182</text>
+<path d="M127.8,310.0 L127.8,288.0 Q127.8,284.0 131.8,284.0 L152.8,284.0 Q156.8,284.0 156.8,288.0 L156.8,310.0 Z" fill="#eb6834"><title>2026-09 승격 규칙(30_knowledge): 78</title></path>
+<text x="142.3" y="279.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">78</text>
+<path d="M158.8,310.0 L158.8,303.3 Q158.8,299.3 162.8,299.3 L183.8,299.3 Q187.8,299.3 187.8,303.3 L187.8,310.0 Z" fill="#1baf7a"><title>2026-09 하네스 정의: 32</title></path>
+<text x="173.3" y="294.3" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">32</text>
+<path d="M189.8,310.0 L189.8,309.8 Q189.8,309.7 190.0,309.7 L218.7,309.7 Q218.8,309.7 218.8,309.8 L218.8,310.0 Z" fill="#eda100"><title>2026-09 세션 감사: 1</title></path>
+<text x="204.3" y="304.7" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">1</text>
+<path d="M220.8,310.0 L220.8,306.5 Q220.8,303.0 224.3,303.0 L246.3,303.0 Q249.8,303.0 249.8,306.5 L249.8,310.0 Z" fill="#e87ba4"><title>2026-09 데일리 요약: 21</title></path>
+<text x="235.3" y="298.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">21</text>
+<text x="173.3" y="328.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">09월</text>
+<path d="M303.5,310.0 L303.5,162.0 Q303.5,158.0 307.5,158.0 L328.5,158.0 Q332.5,158.0 332.5,162.0 L332.5,310.0 Z" fill="#2a78d6"><title>2026-10 작업 노트: 456</title></path>
+<text x="318.0" y="153.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">456</text>
+<path d="M334.5,310.0 L334.5,291.3 Q334.5,287.3 338.5,287.3 L359.5,287.3 Q363.5,287.3 363.5,291.3 L363.5,310.0 Z" fill="#eb6834"><title>2026-10 승격 규칙(30_knowledge): 68</title></path>
+<text x="349.0" y="282.3" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">68</text>
+<path d="M365.5,310.0 L365.5,299.0 Q365.5,295.0 369.5,295.0 L390.5,295.0 Q394.5,295.0 394.5,299.0 L394.5,310.0 Z" fill="#1baf7a"><title>2026-10 하네스 정의: 45</title></path>
+<text x="380.0" y="290.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">45</text>
+<path d="M396.5,310.0 L396.5,306.5 Q396.5,303.0 400.0,303.0 L422.0,303.0 Q425.5,303.0 425.5,306.5 L425.5,310.0 Z" fill="#eda100"><title>2026-10 세션 감사: 21</title></path>
+<text x="411.0" y="298.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">21</text>
+<path d="M427.5,310.0 L427.5,306.7 Q427.5,303.3 430.8,303.3 L453.2,303.3 Q456.5,303.3 456.5,306.7 L456.5,310.0 Z" fill="#e87ba4"><title>2026-10 데일리 요약: 20</title></path>
+<text x="442.0" y="298.3" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">20</text>
+<text x="380.0" y="328.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">10월</text>
+<path d="M510.2,310.0 L510.2,262.3 Q510.2,258.3 514.2,258.3 L535.2,258.3 Q539.2,258.3 539.2,262.3 L539.2,310.0 Z" fill="#2a78d6"><title>2026-11 작업 노트: 155</title></path>
+<text x="524.7" y="253.3" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">155</text>
+<path d="M541.2,310.0 L541.2,306.5 Q541.2,303.0 544.7,303.0 L566.7,303.0 Q570.2,303.0 570.2,306.5 L570.2,310.0 Z" fill="#eb6834"><title>2026-11 승격 규칙(30_knowledge): 21</title></path>
+<text x="555.7" y="298.0" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">21</text>
+<path d="M572.2,310.0 L572.2,306.8 Q572.2,303.7 575.3,303.7 L598.0,303.7 Q601.2,303.7 601.2,306.8 L601.2,310.0 Z" fill="#1baf7a"><title>2026-11 하네스 정의: 19</title></path>
+<text x="586.7" y="298.7" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">19</text>
+<path d="M603.2,310.0 L603.2,309.7 Q603.2,309.3 603.5,309.3 L631.8,309.3 Q632.2,309.3 632.2,309.7 L632.2,310.0 Z" fill="#eda100"><title>2026-11 세션 감사: 2</title></path>
+<text x="617.7" y="304.3" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">2</text>
+<path d="M634.2,310.0 L634.2,309.3 Q634.2,308.7 634.8,308.7 L662.5,308.7 Q663.2,308.7 663.2,309.3 L663.2,310.0 Z" fill="#e87ba4"><title>2026-11 데일리 요약: 4</title></path>
+<text x="648.7" y="303.7" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">4</text>
+<text x="586.7" y="328.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle">11월 (부분)</text>
+<line x1="70.0" y1="310.0" x2="690.0" y2="310.0" stroke="#59636e" stroke-width="1"/>
+<rect x="70" y="67" width="10" height="10" rx="2" fill="#2a78d6"/>
+<text x="85.0" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">작업 노트</text>
+<rect x="164.5" y="67" width="10" height="10" rx="2" fill="#eb6834"/>
+<text x="179.5" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">승격 규칙(30_knowledge)</text>
+<rect x="364.0" y="67" width="10" height="10" rx="2" fill="#1baf7a"/>
+<text x="379.0" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">하네스 정의</text>
+<rect x="472.0" y="67" width="10" height="10" rx="2" fill="#eda100"/>
+<text x="487.0" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">세션 감사</text>
+<rect x="566.5" y="67" width="10" height="10" rx="2" fill="#e87ba4"/>
+<text x="581.5" y="76.0" font-size="12" font-weight="400" fill="#59636e" text-anchor="start">데일리 요약</text>
+</svg>

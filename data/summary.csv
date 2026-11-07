@@ -1,0 +1,4 @@
+repo,first_commit,last_commit,span_days,active_days,commits_nonmerge,integration_merges,ai_trailer_commits,ai_trailer_ratio,review_mention_commits,tester_mention_commits
+IAM,2026-06-23,2026-11-06,137,96,4270,1341,4054,0.949,842,31
+LEAK,2026-08-27,2026-11-06,72,45,1536,3,1528,0.995,518,93
+MFA,2026-09-08,2026-11-06,60,15,196,2,196,1.000,51,11
